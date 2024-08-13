@@ -9,7 +9,7 @@ const pool = new Pool({
 });
 
 pool.connect().then(()=>{
-    console.log("database is connected")
+    console.log("database is jnsdflibaekn")
 });
 
 export default pool;
